@@ -1,0 +1,6 @@
+Loading makefile /home/senem/workspace/mandel_brot/makefile with default directory /home/senem/workspace/mandel_brot
+Trying to build /home/senem/workspace/mandel_brot/makefile
+ Using rule default rule
+ Targets /home/senem/workspace/mandel_brot/makefile depend on 
+*** /home/senem/workspace/mandel_brot/makefile:1: unknown statement g
+
